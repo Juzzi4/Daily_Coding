@@ -1,24 +1,19 @@
-# README
+# Daily Coding Problems
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This "app" that isnt really an app is to hold all of my coding practices. The only folder that will be changed is the Daily Coding folder and it will house all of the problems that I have completed from Hackerrank and Leetcode and any other places that I find coding problems. My goal with this "app" is to keep track of my problems and to keep practicing.
 
-Things you may want to cover:
+Things:
 
-* Ruby version
+* Ruby version 2.7.1
 
-* System dependencies
+* Normal Configuration
 
-* Configuration
+* Database creation (Didn't do it)
 
-* Database creation
+* Database initialization (Nah)
 
-* Database initialization
+* How to run the test suite (Don't have to)
 
-* How to run the test suite
+* Services (?)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Deployment instructions (Good Luck)
